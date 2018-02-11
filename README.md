@@ -11,3 +11,5 @@ run_analysis.R does the following
 7. appropirately label the data set with descriptive activity names (data set 1)
 8. create a second, independent, tidy data set using the data set 1. the second data 
    set includes the average of each variable for each activity and each subject
+
+Final ouput is stored as tidy_data.txt
